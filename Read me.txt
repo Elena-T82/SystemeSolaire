@@ -1,0 +1,14 @@
+Les déplacements :
+
+z : avancer
+s : reculer
+q : rotation gauche
+d : rotation droite
+
+espace : monter
+shift gauche : descendre
+
+e : changer de caméra entre vue avant et vue arrière.
+a : passer sur la caméra de vue d'ensemble.
+
+r : changer la caméra en vue 3ème personne.
